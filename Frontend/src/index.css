@@ -1,0 +1,22 @@
+:root {
+  font-family: system-ui, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav{
+  background: #242424;
+}
+
+.text{
+  color:rgb(174, 0, 255);
+  /* color:rgb(255, 40, 251); */
+}
